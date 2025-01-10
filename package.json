@@ -1,5 +1,5 @@
 {
-    "name": "fe-deploy-cli",
+    "name": "jjc-deploy-cli",
     "version": "1.0.2",
     "description": "A cli tool for web deploy.",
     "bin": {
@@ -10,14 +10,14 @@
         "node-ssh",
         "deploy"
     ],
-    "author": "dadaiwei",
+    "author": "jjc",
     "license": "ISC",
     "engines": {
         "node": ">=9.0.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/dadaiwei/fe-deploy-cli"
+        "url": "https://github.com/JJcai/jjc-deploy-cli"
     },
     "dependencies": {
         "archiver": "^3.1.1",
