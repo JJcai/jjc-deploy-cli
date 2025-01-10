@@ -7,13 +7,13 @@
 能通过ssh连上服务器即可
 
 ## 安装
-全局安装fe-deploy-cli
+全局安装jjc-deploy-cli
 ```
-npm i fe-deploy-cli -g
+npm i jjc-deploy-cli -g
 ```
 查看版本，表示安装成功。
 
-![安装fe-deploy-cli](./imgs/安装deploy.png)
+![安装jjc-deploy-cli](./imgs/安装deploy.png)
 
 ## 使用
 ### 1.初始化部署模板
