@@ -1,4 +1,4 @@
-# jjs-deploy-cli
+# jjc-deploy-cli
 前端轻量化部署脚手架
 
 基于该项目修改：https://github.com/dadaiwei/fe-deploy-cli

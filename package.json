@@ -1,6 +1,6 @@
 {
     "name": "jjc-deploy-cli",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "A cli tool for web deploy.",
     "bin": {
         "deploy": "./bin/index.js"
